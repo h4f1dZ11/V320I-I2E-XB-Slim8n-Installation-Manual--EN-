@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.2 Electrical System</title>
+  <keywords>
+    <keyword>#MECHOK</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading3" style="page-break-before:always;">Electrical System</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="9" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:395px; height:24px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Action/Situation</text></para>
+        </td>
+        <td style="width:267px; height:24px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Result</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:395px; height:40px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:1px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Performing inspection or maintenance operation without turning OFF the machine power (Refer to NOTE)</text></para>
+        </td>
+        <td style="width:267px; height:40px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Electric shock, breakdown of the machine, abnormal operation, fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:395px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Touching a device with residual voltage (Refer to NOTE)</text></para>
+        </td>
+        <td style="width:267px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Electrical shock</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:395px; height:40px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Miswiring</text></para>
+        </td>
+        <td style="width:267px; height:40px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Breakdown of the machine, abnormal operation, fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:395px; height:40px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Loose screw in terminal block or other location</text></para>
+        </td>
+        <td style="width:267px; height:40px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Breakdown of the machine, abnormal operation, fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:395px; height:40px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Machine controller door or junction box cover is left open</text></para>
+        </td>
+        <td style="width:267px; height:40px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Electric leakage, breakdown of the machine, abnormal operation, fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:395px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Touching switches with wet hands</text></para>
+        </td>
+        <td style="width:267px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Electrical shock</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:395px; height:40px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Damage to wiring on floor surrounding machine</text></para>
+        </td>
+        <td style="width:267px; height:40px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Electric leakage, breakdown of the machine, abnormal operation, fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:395px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Operation or maintenance by non-qualified personnel</text></para>
+        </td>
+        <td style="width:267px; height:24px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Breakdown of the machine</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#231f20;">-NOTES-</text></para>
+    <list id="1" type="ol" listtype="decimal" formatstring="&#37;&#115;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:-11px; margin-top:1px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:21px left ; font-family:Arial; font-size:10pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-11px; margin-top:1px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:21px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Prior</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">to</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">performing</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">maintenance</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">of</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">the</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">servo</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">amplifiers,</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">spindle</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">amplifiers,</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">and</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">inverters,</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">turn</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">OFF</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">the</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">main</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">power</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">switch and confirm that the LED which indicates charging (red) for each amplifier and inverter is off.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:21px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">High voltage current flows through components inside the junction box.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:21px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">High voltage current continues to flow on the primary side of the main power switch even after the main power supply is turned OFF.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:21px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Electrical current continues to flow to lamps and outlets in the machine controller even after the main power supply is turned OFF.</text></li>
+    </list>
+  </body>
+</topic>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.3.1 Lubricant and Hydraulic Oil List</title>
+  <keywords>
+    <keyword>#GREASE</keyword>
+    <keyword>#HYD</keyword>
+    <keyword>#MECHOK</keyword>
+    <keyword>#SPDL</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading4">Lubricant and Hydraulic Oil List</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; margin-top:8px;"><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Table2.3" style="font-size:11pt; color:#0000ff;">Table 2.3</link><text style="font-size:11pt;"> lists the recommended lubricants and hydraulic oils.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:19px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.png" scale="18.00%" width="48" height="41" styleclass="Image Caption"></image></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">CAUTION</text></para>
+        </td>
+        <td style="width:560px; border-left:none;">
+          <list id="3" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:6px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:11pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:6px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Obtain an SDS (Safety Data Sheet) from the supplier of the lubricant or hydraulic oil, and handle the lubricant or hydraulic oil according to the contents of the material safety data sheet.</text></li>
+          </list>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:4px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">The SDS contains information about health and safety, and emergency responses.</text></para>
+          <list id="3" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:11px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:11pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:11px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">When handling oils, cutting fluids, and other chemical substances, wear protective gloves and safety goggles according to the instructions in the SDS.</text></li>
+          </list>
+          <list id="4" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:11px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:11pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:11px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Lubricants and hydraulic oils affect the precision and performance of the machine. Therefore, be sure to use the oils recommended by Makino.</text></li>
+          </list>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:4px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">If using lubricant or hydraulic oil other than those recommended by Makino, contact Makino service representatives.</text></para>
+          <list id="5" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:11px; margin-right:4px; margin-bottom:6px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:11pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:11px; margin-right:4px; margin-bottom:6px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Among the recommended oils in &quot;</text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Table2.3" styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#0000ff;">Table 2.3 Recommended Lubricants and Hydraulic Oils</link><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">&quot;. If using lubricating oil or hydraulic oil other than those recommended by Makino, the original lubricant oil must be drained completely from the tank before refilling.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><anchor id="Table2.3" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Table </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">&lt;%HMTABLECOUNTER2=2%&gt;.&lt;%HMTABLECOUNTER%&gt; &#160;</text><text style="font-size:11pt;">Recommended Lubricants and Hydraulic Oils</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="6" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:301px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Peripheral Device</text></para>
+        </td>
+        <td style="width:302px; height:21px; background-color:#dddddd;">
+          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">Recommended Oil/Grease/Coolant</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:301px; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;">Automatic Grease Supply Unit</para>
+        </td>
+        <td style="vertical-align:middle; width:302px; height:22px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:2px; margin-bottom:2px; margin-left:4px;">Lube Corporation LHL-X100 cartridge</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;">Spindle Temperature Controller</para>
+        </td>
+        <td style="vertical-align:middle; width:302px; height:22px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:2px; margin-bottom:2px; margin-left:4px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Clariant, Antifrogen N (For Winter country)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:302px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Clariant, Protectogen C Aqua</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:301px; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;">Spindle Hydraulic Power Pack</para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; height:22px;">
+          <para styleclass="Normal" style="text-align:center; margin-top:2px; margin-bottom:2px; margin-left:4px;">ISO3448 VG32</para>
+          <para styleclass="Normal" style="text-align:center; margin-bottom:2px; margin-left:4px;">(Castrol Hyspin AWS32, Mobil DTE24)</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:301px; height:22px;">
+          <para styleclass="Normal" style="margin-left:4px;">Fixture Hydraulic Power Pack (Option)</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

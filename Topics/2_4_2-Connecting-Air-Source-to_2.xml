@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.4.2 Connecting Air Source to Machine</title>
+  <keywords>
+    <keyword>#MCVIEW</keyword>
+    <keyword>#MECHOK</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading4">Supply of Coolant </para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.png" scale="18.00%" width="48" height="41" styleclass="Image Caption"></image></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="width:560px; border-left:none;">
+          <list id="10" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-left:24px; font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">The use of non-forming and water-soluble coolant (A1-class</text></li>
+          </list>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">emulsion type bases on JIS) is strongly recommended. The use of</text></para>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">A2-class soluble type, A3-class chemical solution type or synthetic</text></para>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">type based coolant can damage the machine. (Examples: Peeling</text></para>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">of paint, deterioration of rubber parts.) Consult with the</text></para>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">manufacturer before use.</text></para>
+          <list id="11" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-left:24px; font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Coolant used must be non-corrosive (both to rubber seals and</text></li>
+          </list>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">metals).</text></para>
+          <list id="12" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-left:24px; font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Do not use anti-foaming additives unless absolutely necessary to</text></li>
+          </list>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">prevent clogging of the filter for the Drum unit. If an anti-foaming</text></para>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">addictive must be used, the concentration must be properly</text></para>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">controlled.</text></para>
+          <list id="13" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-left:24px; font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">If use of an oil-based coolant cannot be avoided, a fire extinguisher</text></li>
+          </list>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">system must be provided. (Refer to Chapter 1, 1.3 Fire Hazard)</text></para>
+          <list id="14" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-left:24px; font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Dilute coolant in accordance with the manufacturer’s instructions.</text></li>
+          </list>
+          <list id="15" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-left:24px; font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Dilute coolant outside the Coolant Tank.</text></li>
+          </list>
+          <list id="16" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-left:24px; font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Follow the manufacturer’s instructions regarding the concentration</text></li>
+          </list>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">of the coolant. (If the instructions are not followed, it may result in</text></para>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">the formation of mold, foaming, corrosion and / or other problems.)</text></para>
+          <list id="17" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-left:24px; font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Supply an adequate amount of coolant. If there is not an adequate</text></li>
+          </list>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">volume of coolant, machining may be interrupted due to abnormal</text></para>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">coolant circulation.</text></para>
+          <list id="18" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-left:24px; font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Exercise extreme caution to prevent contamination while coolant is</text></li>
+          </list>
+          <para styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">being supplied since the fill port is on the clean tank.</text></para>
+          <list id="19" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-indent:-24px; margin-left:24px; font-family:Symbol; font-size:11pt; color:#000000;">
+            <li styleclass="Normal" style="text-indent:-24px; margin-left:24px;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Exercise extreme caution to avoid spilling of coolant.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Procedure to supply of coolant to coolant tank.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-left:36px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">1) Remove the Maintenance cover [1] to access the coolant fill port.</text></para>
+    <para styleclass="Normal" style="margin-left:36px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">2) Supply coolant from the fill port with the Coolant Tank pumps OFF. </text></para>
+    <para styleclass="Normal" style="margin-left:36px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">3) Return back Maintenance cover.</text></para>
+    <para styleclass="Normal" style="margin-left:36px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">4) Confirm that the coolant level is in between the upper limit [3] and the lower limit [4] of the</text></para>
+    <para styleclass="Normal" style="margin-left:36px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">coolant level gauge with the Coolant Tank pumps [2] ON.</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-left:34px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; margin-left:34px;"><image src="CX23 Coolant level.png" scale="15.43%" width="5" height="5" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Coolant Supply</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">.</text></para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Coolant Tank Pump</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Upper Limit</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Maintenance Cover</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">4</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Lower Limit</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:34px;"></para>
+    <para styleclass="Normal" style="margin-left:1px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">This completes the supply of coolant to the Coolant Tank.</text></para>
+    <para styleclass="Normal" style="margin-left:38px; page-break-before:always;"></para>
+  </body>
+</topic>

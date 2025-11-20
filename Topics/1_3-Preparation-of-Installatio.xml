@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Preparation of Installation Space</title>
+  <meta name="DESCRIPTION" translate="true" value="Update Pictures and dimensions" />
+  <keywords>
+    <keyword>#MCVIEW</keyword>
+    <keyword>#MECHOK</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading3" style="border:none;">Preparation of Installation Space</para>
+    </header>
+    <para styleclass="Figure 1" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">The figures in this section are Slim8n floor plans and general views, which illustrate the space required for installing the machine. Note that these layouts are for the Standard machine configuration and some of the key options. If the machine has special, new, customized options or has new specifications, please contact Makino for specific information.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Table &lt;%HMTABLECOUNTER2=1%&gt;.&lt;%HMTABLECOUNTER%&gt; &#160;Machine Body Dimensions during Transportation</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="6" colcount="5" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:250px; height:30px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:6px; margin-bottom:0px; margin-left:12px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:336px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Unit</text></para>
+        </td>
+        <td style="width:100px; height:30px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Height (mm)</text></para>
+        </td>
+        <td style="width:100px; height:30px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:5px; margin-bottom:0px; margin-left:5px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Width (mm)</text></para>
+        </td>
+        <td style="width:100px; height:30px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:3px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Length (mm)</text></para>
+        </td>
+        <td style="width:100px; height:30px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Weight (kg)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:250px; height:13px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Standard Machine</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:2px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">3346</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1700</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:3px; margin-bottom:2px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">3394</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:2px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">6800</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:250px; height:13px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Coolant Tank with Chip Tray</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:2px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">925</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1700</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:3px; margin-bottom:2px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1538</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:2px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">305 (Max.)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:250px; height:13px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Coolant Tank with Drum Conveyor (Option)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:2px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1587</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass=" " style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">1700</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:3px; margin-bottom:2px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1805</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:2px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">495 (Max.)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:250px; height:13px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Drum Conveyor (Option)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:2px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1567</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">870</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:3px; margin-bottom:2px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1589</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:2px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">240</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:250px; height:13px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Chip Trolley (Option)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:2px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">750</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">648</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:3px; margin-bottom:2px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">736</text></para>
+        </td>
+        <td style="vertical-align:middle; width:100px; height:13px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:8px; margin-bottom:2px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">55</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="Comment" style="color:#008000;">&#32;</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:6px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Refer to the following figures of machine general view and layout to ensure sufficient installation space is available at the installation location.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:justify; line-height:1.18;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">The maintenance areas shown in the Machine Layout is the maintenance space required after</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000; letter-spacing:-2px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">installation.</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"><image src="32VS900A2001=0_front view.png" scale="14.00%" width="513" height="395" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="32VS900A2001=0_right view.png" scale="14.00%" width="651" height="431" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; &#160;Slim8n Standard Machine General Views &amp; Dimensions with Chip Tray (Front &amp; Right View)</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:5px; margin-bottom:10px;"><image src="32VS900A2001=0_rear view.png" scale="14.00%" width="425" height="364" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:5px; margin-bottom:10px;"><image src="32VS900A2001=0_left view.png" scale="14.00%" width="489" height="354" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Slim8n Standard Machine General Views &amp; Dimensions with Chip Tray (Rear and Left View)</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; page-break-before:always;"><text styleclass="Image Caption">&#32;</text><image src="32VS900A2001=0_1_front view.png" scale="14.00%" width="524" height="396" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="32VS900A2001=0_1_right view.png" scale="14.00%" width="666" height="434" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Slim8n Standard Machine General Views &amp; Dimensions with Lift Up Chip Conveyor (Front &amp; Right View)</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="32VS900A2001=0_1_rear view.png" scale="14.00%" width="444" height="375" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="32VS900A2001=0_1_left view.png" scale="14.00%" width="492" height="360" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Slim8n Standard Machine General Views &amp; Dimensions with Lift Up Chip Conveyor (Rear and Left View)</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="32VS900A2002=0_front view.png" scale="14.00%" width="422" height="419" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="32VS900A2002=0_right view.png" scale="14.00%" width="669" height="438" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Slim8n APC Machine General Views &amp; Dimensions with Chip Tray (Front &amp; Right View)</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="32VS900A2002=0_rear view.png" scale="14.00%" width="427" height="389" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:5px;"><image src="32VS900A2002=0_left view.png" scale="14.00%" width="528" height="393" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Slim8n APC Machine General Views &amp; Dimensions with Chip Tray (Rear and Left View)</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="32VS900A2002=0__1_front view.png" scale="14.00%" width="422" height="417" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="32VS900A2002=0_1_right view.png" scale="14.00%" width="659" height="436" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Slim8n APC Machine General Views &amp; Dimensions with Lift Up Chip Conveyor (Front &amp; Right View)</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="32VS900A2002=0_1_rear view.png" scale="15.00%" width="464" height="400" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="32VS900A2002=0_1_left view.png" scale="15.00%" width="561" height="397" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Slim8n APC Machine General Views &amp; Dimensions with Lift Up Chip Conveyor (Rear and Left View)</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; page-break-before:always;"><image src="MC floor plan with chip tray.png" scale="17.00%" width="458" height="817" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;">&#32;</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal; color:#000000;">&#32;</text><text style="font-size:11pt;">Slim8n Standard Machine Floor Plan with Chip Tray</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; page-break-before:always;"><text styleclass="Image Caption">&#32;</text><image src="MC floor plan with LUCC.png" scale="18.00%" width="482" height="869" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160;Slim8n </text><text style="font-size:11pt;">Standard Machine Floor Plan with Lift Up Chip Conveyor (Option)</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"><image src="APC MC floor plan with chip tray.png" scale="23.00%" width="499" height="873" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal;">&#32;</text><text styleclass="Image Caption" style="font-size:11pt; font-weight:normal; color:#000000;">&#32;</text><text style="font-size:11pt;">Slim8n APC Machine Floor Plan with Chip Tray</text></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="APC MC floor plan with LUCC.png" scale="21.00%" width="452" height="866" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER2=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160;Slim8n </text><text style="font-size:11pt;">APC Machine Floor Plan with Lift Up Chip Conveyor (Option)</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

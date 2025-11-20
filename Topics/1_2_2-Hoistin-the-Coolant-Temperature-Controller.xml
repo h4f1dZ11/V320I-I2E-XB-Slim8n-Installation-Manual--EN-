@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1.2.2 Hoisting the Coolant Temperature Controller</title>
+  <meta name="DESCRIPTION" translate="true" value="Remove &quot;ADOBE PDF&quot; build if not required for your MC" />
+  <keywords>
+    <keyword>#MECHOK</keyword>
+    <keyword>#OILMATIC</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading4">Hoisting the Coolant Temperature Controller</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.png" scale="18.00%" width="48" height="41" styleclass="Image Caption"></image></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">DANGER</text></para>
+        </td>
+        <td style="width:560px; border-left:none;">
+          <list id="2" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:4px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:11pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:4px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Assign only qualified workers to slinging work and crane operation. Before the machine body can be hoisted by a crane, it must be confirmed that all the ropes are strong enough for the weight and that the machine body is handled in a well-balanced position. If a heavy load falls due to breaking of a rope or loss of balance during crane operation, the load may be damaged and workers may be seriously injured.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:justify; line-height:1.50;"><text style="font-size:11pt;">Hoist the equipment with a crane.</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:19px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:19px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Weight of spindle lubricating oil temperature controller: 100 kg.</text></li>
+    </list>
+    <para styleclass="" style="text-align:center; text-indent:-23px; margin-top:11px; margin-right:0px; margin-bottom:8px; margin-left:23px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><image src="Fig1.6_Chp3_CX23.png" scale="55.00%" width="185" height="429" styleclass="Image Caption"></image></para>
+    <para styleclass="" style="text-align:center; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:23px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text styleclass="Normal" style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=1%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160;Hoisting the Spindle Lubricating Oil Temperature Controller</text></para>
+    <para styleclass="" style="text-align:center; text-indent:-23px; margin-top:0px; margin-right:89px; margin-bottom:0px; margin-left:47px; line-height:1.18; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"></para>
+  </body>
+</topic>

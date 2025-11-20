@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.3 Lubrication</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Lubrication</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; margin-top:8px;"><text style="font-size:11pt;">This section explains how to supply lubricant and cutting fluid and confirm the oil levels.</text></para>
+  </body>
+</topic>

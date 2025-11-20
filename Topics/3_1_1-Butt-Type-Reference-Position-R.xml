@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3.1.1 Butt Type Reference Position Return</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Butt Type Reference Position Return</para>
+    </header>
+    <para styleclass="Normal"><text style="font-size:11pt;">The Butt Type Reference method takes the axis reference with respect to the mechanical stopper. To perform reference position return follow the procedures below.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:10px; margin-left:34px;"><text style="font-size:11pt; font-weight:bold;">Operation Procedure</text></para>
+    <para styleclass="Normal" style="margin-bottom:10px; margin-left:34px;"><text style="font-size:11pt;">(Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig3.1" target="_blank" style="font-size:11pt; color:#0000ff;">Figure 3.1</link><text style="font-size:11pt;">)</text></para>
+    <list id="7" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:34px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Select </text><text style="font-size:11pt; font-weight:bold;">[REFERENCE]</text><text style="font-size:11pt;"> mode on the main operation panel.</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Select the axis to be referenced by pressing the Axis Selection switch. Z-axis should be selected first.</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Press </text><text style="font-size:11pt; font-weight:bold;">[CYCLE START]</text><text style="font-size:11pt;">.</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">The selected axis move towards the mechanical stopper in the direction that have been set in parameter at a constant feedrate.</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Butt Type Reference Position_1.png" scale="50.00%" width="438" height="125" styleclass="Image Caption"></image></para>
+    <list id="8" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="5" styleclass="Normal" style="margin-bottom:8px; margin-left:34px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">The axis butts against the mechanical stopper until the torque limit is reached.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Butt Type Reference Position_2.png" scale="50.00%" width="444" height="126" styleclass="Image Caption"></image></para>
+    <list id="9" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="6" styleclass="Normal" style="margin-bottom:8px; margin-left:34px; page-break-before:always; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px; page-break-before:always;"><text style="font-size:11pt;">After the axis butts the mechanical stopper the axis is retracted in opposite direction at the feed rate specified in parameter to the return distance specified in parameter.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Butt Type Reference Position_3.png" scale="50.00%" width="455" height="150" styleclass="Image Caption"></image></para>
+    <list id="10" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="7" styleclass="Normal" style="margin-bottom:8px; margin-left:34px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">From the return position the axis butts again(second time) the mechanical stopper in the direction set in parameter at constant feed rate.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Butt Type Reference Position_4.png" scale="50.00%" width="445" height="128" styleclass="Image Caption"></image></para>
+    <list id="11" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="8" styleclass="Normal" style="margin-left:34px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:34px;"><text style="font-size:11pt;">After the axis butts the mechanical stopper the axis is retracted in opposite direction at the feed rate and distance specified in parameter.</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-left:34px;"></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="Normal" style="font-size:11pt;">Table </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">&lt;%HMTABLECOUNTER2=3%&gt;.&lt;%HMTABLECOUNTER=1%&gt;</text><text styleclass="Normal" style="font-size:11pt;"> &#160;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Setting for Butt Type Reference Position Return</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="6" colcount="4" style="width:646px; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:385px; height:20px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Calibri; font-size:11pt; color:#000000;"> </text></para>
+        </td>
+        <td style="width:68px; height:20px; background-color:#dddddd; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">X-Axis</text></para>
+        </td>
+        <td style="width:68px; height:20px; background-color:#dddddd; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">Y-Axis</text></para>
+        </td>
+        <td style="width:68px; height:20px; background-color:#dddddd; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">Z-Axis</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:385px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Operating Direction</text></para>
+        </td>
+        <td style="vertical-align:middle; width:68px; height:20px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">(+)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:68px; height:20px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">(-)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:68px; height:20px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">(+)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:385px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Axis moving speed towards mechanical stopper (1st attempt)</text></para>
+        </td>
+        <td colspan="3" style="vertical-align:bottom; width:233px; height:20px; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1000mm/min</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:385px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Axis moving speed towards mechanical stopper (2nd attempt)</text></para>
+        </td>
+        <td colspan="3" style="vertical-align:bottom; width:233px; height:20px; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">500mm/min</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:385px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Axis returning speed from mechanical stopper</text></para>
+        </td>
+        <td colspan="3" style="vertical-align:bottom; width:233px; height:20px; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">2000mm/min</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:bottom; width:385px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Axis returning distance</text></para>
+        </td>
+        <td style="vertical-align:bottom; width:68px; height:20px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">7.5mm</text></para>
+        </td>
+        <td style="vertical-align:bottom; width:68px; height:20px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">7mm</text></para>
+        </td>
+        <td style="vertical-align:bottom; width:68px; height:20px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">10mm</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"><text style="font-size:11pt; font-weight:bold;">Establishing Reference Point with Respect to Table</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><text style="font-size:11pt;">The reference point is established with respect to table center in full stroke as per machine specification. During machine building stage, follow the method below to achieve reference point from table center.</text></para>
+    <para styleclass="Normal"></para>
+    <list id="12" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; margin-left:34px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Carry out the procedure as explained in section </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" style="font-size:11pt; color:#0000ff;">3.1.1</link><text style="font-size:11pt;"> Butt Type Reference Position Return.</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Check the machine axis stroke. Note down the shift value required to achieve the stroke with respect to table center.</text></li>
+      <li styleclass="Normal" style="margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Input the required shift value for each respective axis in the Butt Type Reference Maintenance Screen. (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig3.1" target="_blank" style="font-size:11pt; color:#0000ff;">Figure 3.1</link><text style="font-size:11pt;">)</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:53px;"><text style="font-size:11pt;">To display Butt Type Reference Screen:</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:53px;"><text style="font-size:11pt;">Press </text><text style="font-size:11pt; font-weight:bold;">[CSTM/GRPH]</text><text style="font-size:11pt;">&#32;</text><text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;">®</text><text style="font-size:11pt;"> Main Menu Screen is displayed </text><text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;">®</text><text style="font-size:11pt;"> select </text><text style="font-size:11pt; font-weight:bold;">[SVC]</text><text style="font-size:11pt;"> by moving the </text><text style="font-size:11pt; font-weight:bold;">[</text><text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">¬</text><text style="font-size:11pt; font-weight:bold;">]</text><text style="font-size:11pt;"> or </text><text style="font-size:11pt; font-weight:bold;">[</text><text styleclass="" style="font-family:Symbol; font-size:11pt; font-weight:bold; color:#000000;">®</text><text style="font-size:11pt; font-weight:bold;">]</text><text style="font-size:11pt;"> cursor key </text><text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;">®</text><text style="font-size:11pt;"> press </text><text style="font-size:11pt; font-weight:bold;">[1]</text><text style="font-size:11pt;"> MDI key </text><text styleclass="" style="font-family:Symbol; font-size:11pt; color:#000000;">®</text><text style="font-size:11pt;"> Butt Type Reference Screen is displayed.</text></para>
+    <para styleclass="Normal" style="margin-bottom:8px; margin-left:53px;"><text style="font-size:11pt;">On the Butt Type Reference Screen, turn ON the Maintenance Mode, select axis and input the required shift value.</text></para>
+    <list id="13" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="Normal" style="margin-left:34px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-left:34px;"><text style="font-size:11pt;">Repeat step 1 to 3 till required stroke is achieved with respect to table center.</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Butt Type Reference Maintenance Screen.png" scale="60.00%" width="392" height="293" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><anchor id="Fig3.1" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=3%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; &#160;Butt Type Reference Maintenance Screen</text></para>
+  </body>
+</topic>

@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3.1 &quot;Emergency Stop&quot; Switch</title>
+  <keywords>
+    <keyword>#MCVIEW</keyword>
+    <keyword>#MECHOK</keyword>
+    <keyword>#MPG</keyword>
+    <keyword>#OPPANEL</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading3">&quot;Emergency Stop&quot; Switch</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.png" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:top; width:589px; border-left:none;">
+          <list id="2" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:11pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Make sure operators know the locations of all the &quot;Emergency Stop&quot; switches prior to performing machine operation or maintenance to enable use in an abnormal or dangerous situation.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:justify; margin-bottom:8px;"><text style="font-size:11pt;">The machine goes to the following status when the &quot;Emergency Stop&quot; switch is pressed:</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">Feeding of the axes is stopped immediately.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">Spindle rotation stops if it is rotating.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The spindle is clamped if it has been unclamped.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">When orientation of the spindle has been performed, orientation is reset.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.18;"><text style="font-size:11pt;">When a tool is being changed or the tool magazine is operating, operation stops immediately (even during motion).</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The lift-up chip conveyor and internal chip conveyor come to an immediate stop during operation.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The hydraulic unit is stopped.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The cutting fluid supply is stopped.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The air supply of air blow inside the machining chamber is stopped.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">Energizing of all solenoid valves is reset.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.30;"><text style="font-size:11pt;">The NC is reset.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:justify; margin-top:8px; margin-bottom:8px; line-height:1.18;"><text style="font-size:11pt;">Once the &quot;Emergency Stop&quot; switch is pressed, it is locked in the pressed position. The lock can be released by turning the switch in the direction indicated by the arrow or pulling out the switch. Then, pressing the [CONTROL POWER ON] switch cancels the emergency stop state.</text></para>
+    <para styleclass="Normal" style="text-align:justify; line-height:1.18;"><text style="font-size:11pt;">For details on recovery procedures following machine operation stopped by pressing the &quot;Emergency Stop&quot; switch (Refer to Instruction Manual </text><text style="font-size:11pt; color:#0000ff;">Chapter 8 Troubleshooting 2.1 Recovery from Emergency Stop Status</text><text style="font-size:11pt;">).</text></para>
+    <para styleclass="Normal" style="margin-bottom:15px; page-break-before:always;"><text style="font-size:11pt;">&quot;Emergency Stop&quot; switches are installed at the following locations. All buttons function identically.</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 3.1_1.png" scale="11.00%" width="361" height="414" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 3.1_2.png" scale="15.00%" width="349" height="442" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:15px;"><image src="Portable Manual Pulse Generator (Option)_CX19.png" scale="50.00%" width="222" height="294" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER1=3%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; &#160;&quot;Emergency Stop&quot; Switch</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table styleclass="Default" rowcount="2" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="width:45px; background-color:#dddddd;">
+          <para styleclass="Table font_Header" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">No.</text></para>
+        </td>
+        <td style="width:444px; background-color:#dddddd;">
+          <para styleclass="Table font_Header" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">Name</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:45px;">
+          <para styleclass="Table font_Header" style="text-align:center; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">1</text></para>
+        </td>
+        <td style="width:444px;">
+          <para styleclass="Table Font_Left" style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">&quot;Emergency Stop&quot; Switch</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:8px; margin-bottom:10px;"><text styleclass="Image Caption">&#32;</text><image src="Fig 3.1_3.png" scale="10.00%" width="285" height="387" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:8px; margin-bottom:8px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER1=3%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;&quot;Emergency Stop&quot; Switch (Options)</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="Normal" style="text-align:justify; margin-top:2px; margin-bottom:2px; margin-left:4px;">&quot;Emergency Stop&quot; Switch</para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Drum Conveyor (Option)</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.2.1 Installing Peripheral Equipment</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Installing Peripheral Equipment</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; margin-top:8px; line-height:1.18;"><text style="font-size:11pt;">Electrical connections to the peripheral equipment are made through the connectors on the right side of the Machine Tool Cabinet (MTC) as shown below.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="MTC Connector Locations_1.png" scale="6.00%" width="206" height="392" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; margin-left:38px;"><anchor id="Fig2.14" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160;MTC Connector Locations</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="9" colcount="3" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:#dddddd; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="vertical-align:middle; width:99px; height:22px; background-color:#c0c0c0;">
+          <para styleclass="Normal" style="text-align:center;">Connector No. </para>
+        </td>
+        <td style="vertical-align:middle; width:210px; height:22px; background-color:#c0c0c0;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Option Name</text></para>
+        </td>
+        <td style="vertical-align:middle; width:117px; height:22px; background-color:#c0c0c0;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Remarks</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:99px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">MP91</text></para>
+        </td>
+        <td style="vertical-align:middle; width:210px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Coolant Tank Power</text></para>
+        </td>
+        <td style="vertical-align:middle; width:117px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">24 Way</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:99px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">MP92</text></para>
+        </td>
+        <td style="vertical-align:middle; width:210px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Coolant Tank Signal</text></para>
+        </td>
+        <td style="vertical-align:middle; width:117px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">46 Way</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:99px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">MP93</text></para>
+        </td>
+        <td style="vertical-align:middle; width:210px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LUCC Interface</text></para>
+        </td>
+        <td style="vertical-align:middle; width:117px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">24 Way</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:99px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">MP95</text></para>
+        </td>
+        <td style="vertical-align:middle; width:210px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Air Dryer</text></para>
+        </td>
+        <td style="vertical-align:middle; width:117px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">4 Way</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:99px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">MP96A</text></para>
+        </td>
+        <td style="vertical-align:middle; width:210px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Hydraulic Fixture Power</text></para>
+        </td>
+        <td style="vertical-align:middle; width:117px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">4 Way</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:99px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">MP98</text></para>
+        </td>
+        <td style="vertical-align:middle; width:210px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Robot Interface</text></para>
+        </td>
+        <td style="vertical-align:middle; width:117px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">72 Way</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:99px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">MP99</text></para>
+        </td>
+        <td style="vertical-align:middle; width:210px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Mist Collector Interface</text></para>
+        </td>
+        <td style="vertical-align:middle; width:117px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">4 Way</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:99px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LK20</text></para>
+        </td>
+        <td style="vertical-align:middle; width:210px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Coolant Tank IO Link</text></para>
+        </td>
+        <td style="vertical-align:middle; width:117px; height:22px;">
+          <para styleclass="Normal" style="text-align:center;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:justify; margin-bottom:10px; line-height:1.18;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Position the peripheral equipment at the locations shown in their respective layout drawings below before connection piping and wiring.</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:5px; line-height:1.18;"><image src="Machine Layout with Chip Tray.png" scale="16.00%" width="424" height="767" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:38px;"><anchor id="Fig2.15" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160;Machine Layout with Chip Tray</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:38px; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:7px; margin-left:38px;"><image src="Machine Layout with LUCC (Option).png" scale="16.00%" width="428" height="768" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-left:38px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160;Machine Layout with Lift Up Chip Conveyor (Option)</text></para>
+  </body>
+</topic>

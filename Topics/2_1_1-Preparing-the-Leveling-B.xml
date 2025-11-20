@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.1.1 Preparing the Leveling Blocks</title>
+  <keywords>
+    <keyword>#MCVIEW</keyword>
+    <keyword>#MECHOK</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading4">Preparing the Leveling Blocks</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; margin-top:8px; margin-bottom:8px;"><text style="font-size:11pt;">Table &lt;%HMTABLECOUNTER3=2%&gt;.&lt;%HMTABLECOUNTER=1%&gt; &#160;Parts/Tools to be Prepared</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="13" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:82px; height:27px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:10px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:27px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Product Name</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:27px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Product Number</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:27px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Quantity</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="10" style="vertical-align:top; width:82px; height:1px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">For Machine Installation</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:21px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Leveling Plate</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">18VS150A419-XX</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">4</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:212px; height:21px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Leveling Bolt</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">18VS150A421-XX</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">4</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:212px; height:21px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Nut</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">18VS150A420-XX</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">4</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:212px; height:26px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Standard Anchor Bolt (Standard)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:26px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Z279C-0003-XX</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:26px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">8</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:212px; height:26px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Washer M16 Special (Standard)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:26px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">6VS030A749-XX</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:26px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">8</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:212px; height:26px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Screw M16x80 (Standard)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:26px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Z271B1116080</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:26px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">12</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:212px; height:26px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Chemical Anchor Rod (Option)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:26px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Z279C-0005-XX</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:26px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">8</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:212px; height:26px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Adhesive Foil Capsule (Option)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:26px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Z278E0301900</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:26px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">8</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:212px; height:21px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Screw M16x80 (Option)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Z271B1116080</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">4</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:212px; height:21px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Washer M16</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Z275A3101600</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">4</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:top; width:82px; height:2px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Tool</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:21px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:8px; margin-left:8px; line-height:1.18;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Level Gauge</text></para>
+          <para styleclass="Normal" style="margin-right:8px; margin-bottom:4px; margin-left:8px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">(1 Div = 0.02mm/m)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:78px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">2</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:212px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:8px; margin-bottom:4px; margin-left:8px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Spanner Size 80</text></para>
+        </td>
+        <td style="vertical-align:middle; width:220px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">18VS150A437-XX (Or equivalent)</text></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Normal" style="text-align:center; line-height:1.15; page-break-after:avoid;">2</para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Mark Hole &quot;a&quot; position on the floor considering the Machine Front Edge / Splash Guard reference dimensions as shown in </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.1" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">Figure 2.1</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">. </text></li>
+    </list>
+    <list id="6" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Place the leveling block [1] with the leveling bolt [5] on the location as shown in </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.5" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">Figure 2.5</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">.</text></li>
+    </list>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="Image Caption">&#32;</text><image src="Positioning of level blocks_STD MC.png" scale="13.00%" width="490" height="727" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><anchor id="Fig2.1" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160;Positioning of Leveling Blocks</text></para>
+    <list id="6" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Adjust the height of the leveling bolt [5] to 140mm from the ground as shown in </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.5" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">Figure 2.5</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Hoist the machine above the leveling blocks and alight machine with the leveling blocks.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Slowly rest the machine on the leveling blocks.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Place two leveling gauges [2] &amp; [3] on the machine table as shown in </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.5" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">Figure 2.5</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">. One leveling gauge on X-axis another on Y-axis.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Adjust the leveling bolt [5] to move the bubble to the center of the leveling gauge.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">With the leveling block on top as shown in </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.5" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">Figure 2.5</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">, </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">drill hole &quot;a&quot; and install the Anchor as per Anchor Installation Procedure shown in </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.2" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">Figure 2.2</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> or </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.3" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">2.3</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">.</text></li>
+    </list>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:67px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; text-decoration:underline; color:#000000;">Standard Anchor Bolt &#160;(Standard)</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> - Refer</text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">&#32;</text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.2" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">Figure 2.2</link></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:67px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Makino Part Number: Z279C-0003-00 (ANCHOR BOLT, HILTI, HKD-S M16X65)</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:67px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Drill hole diameter: 19.5mm-20mm</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:67px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Hole depth : 70mm</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:67px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; text-decoration:underline; color:#000000;">Chemical Anchor Rod &#160;(Option)</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> - Refer</text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">&#32;</text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.3" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">Figure 2.3</link></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:67px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Makino Part Number: Z278E0301900 &#160;(ADHESIVE CAPSULE, HVU2 M16X125)</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:67px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Z279C-0005-00 (ANCHOR ROD, HASE M16125 108 333106)</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:14px; margin-right:0px; margin-bottom:0px; margin-left:67px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Drill bit diameter: 18mm</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:67px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Hole depth: 125mm</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:5px; margin-left:67px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Curing Time: Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.4" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">Figure 2.4</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">.</text></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><image src="Chp2.1.1_Anchor installation procedure.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><anchor id="Fig2.2" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160;Anchor Installation procedure (Standard)</text></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Step1.png" scale="21.00%" width="138" height="83" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Step2.png" scale="100.00%" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><anchor id="Fig2.3" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160;Anchor Installation procedure (Option)</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Step3.png" scale="35.00%" width="545" height="222" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:14px;"><anchor id="Fig2.4" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160;Curing time</text></para>
+    <list id="7" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="9" styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Tighten the M16 screw [6] (Standard) or M16 Nut (Option) after curing time, t</text><text styleclass="" style="font-family:Arial; font-size:7pt; vertical-align:sub; color:#000000;">cure</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> from </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.4" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">Figure 2.4</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">.</text></li>
+    </list>
+    <para styleclass="" style="text-align:justify; text-indent:-24px; margin-top:14px; margin-right:0px; margin-bottom:0px; margin-left:72px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; text-decoration:underline; color:#000000;">Standard Anchor Bolt (Standard)</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Tightening torque for M16 screw: 60Nm</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"></para>
+    <para styleclass="" style="text-align:justify; text-indent:-24px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:72px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; text-decoration:underline; color:#000000;">Chemical Anchor Bolt (Option)</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:-24px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:72px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Tightening torque for M16 nut: 60Nm</text></para>
+    <list id="8" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="10" styleclass="" style="text-align:justify; text-indent:0px; margin-top:14px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:14px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Check the leveling gauge for any change on the leveling.</text></li>
+    </list>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:73px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Lock the nut [5] of the leveling bolt with spanner size 80.</text></para>
+    <list id="9" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="11" styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:10px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:10px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Tighten the M16 screw [4] from the Bed to the leveling bolt. Tightening torque: 170Nm.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text styleclass="Image Caption">&#32;</text><image src="Preparing the Leveling Blocks.png" scale="23.00%" width="515" height="595" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><anchor id="Fig2.5" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> &#160; Preparing the Leveling Blocks</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="4" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Leveling Block</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">4</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">M16 Screw &amp; Washer</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Leveling Gauge A</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">5</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Leveling Bolt &amp; Nut</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Leveling Gauge B</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">6</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Anchor Bolt &amp; Washer</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"></para>
+  </body>
+</topic>

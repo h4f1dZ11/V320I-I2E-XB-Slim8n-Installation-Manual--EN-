@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.5.1 Level Adjustment</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Level Adjustment</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify;"><text style="font-size:11pt;">Adjust the machine installation level.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Machine Accuracy Checking_Slim8n.png" scale="10.50%" width="342" height="496" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><anchor id="Fig2.29" styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"></anchor><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Figure </text><text style="font-size:11pt;">&lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Machine Accuracy Checking</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Table</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Level Gauge</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <list id="6" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:71px; line-height:1.30; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:71px; line-height:1.30; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Move the X-axis, Y-axis and Z-axis to the center of stroke.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:71px; line-height:1.30; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Place two level gauges [2] on the</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">table. One level gauge on the X-axis direction another on Y-axis direction.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:15px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">If the leveling bubble is not centered in each level gauge, perform the</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">adjustment procedure below.</text></li>
+    </list>
+    <para styleclass="" style="text-align:center; text-indent:-23px; margin-top:0px; margin-right:34px; margin-bottom:10px; margin-left:23px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><image src="Components for Level Adjustment_Slim8n.png" scale="8.20%" width="340" height="271" styleclass="Image Caption"></image></para>
+    <para styleclass="" style="text-align:center; text-indent:-23px; margin-top:0px; margin-right:34px; margin-bottom:8px; margin-left:23px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:123px left,123px left ;"><anchor id="Fig2.30" styleclass="Normal" style="font-size:11pt;"></anchor><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; &#160;Components for Level Adjustment</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="Normal" style="margin-top:4px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> Leveling Bolt</text></para>
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:4px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">(Width Across Flats: 36mm)</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">4</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass="Normal" style="margin-top:4px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;"> Lock Nut</text></para>
+          <para styleclass="Normal" style="margin-bottom:4px; margin-left:4px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">(Width Across Flats: 50mm)</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <list id="7" type="ol" listtype="lower-alpha" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass=" " style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:71px; line-height:1.50; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:146px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <list id="7" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass=" " style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:71px; line-height:1.50; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:146px left ; font-family:Arial; font-size:11pt; color:#000000;">
+        <li styleclass=" " style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:71px; line-height:1.50; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:146px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Loosen the set screw [4] of the leveling plate to be adjusted.</text></li>
+      </list>
+    </list>
+    <list id="8" type="ol" listtype="lower-alpha" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:71px; line-height:1.30; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:146px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <list id="8" level="1" type="ol" listtype="lower-alpha" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:71px; line-height:1.30; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:146px left ; font-family:Arial; font-size:11pt; color:#000000;">
+        <li styleclass="" style="text-align:left; text-indent:-23px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:71px; line-height:1.30; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:146px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Adjust the leveling bolt [3] so that the leveling bubble is centered in</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000; letter-spacing:-1px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">each level.</text></li>
+      </list>
+    </list>
+    <para styleclass="Normal" style="margin-left:102px;"></para>
+    <para styleclass="Normal" style="margin-left:48px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.png" scale="18.00%" width="48" height="41" styleclass="Image Caption"></image></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:4px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">CAUTION</text></para>
+        </td>
+        <td style="vertical-align:middle; width:560px; border-left:none;">
+          <list id="9" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:11pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Loads must be applied equally to each leveling bolt.</text></li>
+          </list>
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Uneven loads can cause distortion of the bed.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:-23px; margin-top:11px; margin-right:0px; margin-bottom:0px; margin-left:94px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:146px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">c) &#160;Tighten the set screw [4].</text></para>
+    <para styleclass="Normal"></para>
+    <list id="10" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="4" styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:48px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Use the portable manual pulse generator to move the X-axis and Y-axis position to both ends of the stroke and check that the level gauge bubble position is still centered.</text></li>
+    </list>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:63px; margin-bottom:0px; margin-left:123px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="margin-left:48px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.png" scale="18.00%" width="48" height="41" styleclass="Image Caption"></image></para>
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:4px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:560px; border-left:none;">
+          <list id="11" type="ul" listtype="bullet" formatstring="&#8226;" levelreset="true" legalstyle="false" startfrom="0" styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:11pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Operation with the operator doors open is very dangerous. Use extreme care when operating the machine.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-left:125px;"></para>
+    <para styleclass="Normal" style="margin-left:48px;"><text style="font-size:11pt; vertical-align:baseline; color:#000000;">After leveling adjustment is completed, then proceed the static accuracy check, following &quot;MAKINO customer service&apos;s installation check sheet &quot;.</text></para>
+    <para styleclass="Normal" style="margin-left:100px; page-break-before:always;"></para>
+  </body>
+</topic>

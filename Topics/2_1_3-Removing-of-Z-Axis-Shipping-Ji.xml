@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.1.3 Removing of Z-Axis Shipping Jig</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Removing of Z-Axis Shipping Jig</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.png" scale="18.00%" width="48" height="41" styleclass="Image Caption"></image></para>
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:middle; width:560px; border-left:none;">
+          <list id="5" type="ul" listtype="bullet" formatstring="•" levelreset="true" legalstyle="false" startfrom="0" styleclass style="text-align:left; text-indent:-11px; margin-top:10px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Arial; font-size:11pt; color:#000000;">
+            <li styleclass style="text-align:left; text-indent:-11px; margin-top:10px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Exercise extreme caution as entry onto the machine is necessary in order to perform the following procedures.</text></li>
+            <li styleclass style="text-align:left; text-indent:-11px; margin-top:10px; margin-right:4px; margin-bottom:10px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">Perform this procedure when the machine axes can be moved.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><text style="font-size:11pt;">For shipping of the machine, the Z-axis (Spindle) is rested on a mechanical stopper (bottom side on the Saddle casting) to avoid vibration to the Motor and Ball Screw elements. The Z-axis locking fixture is installed between the Ram and the Saddle to secure the Z-axis movement.</text></para>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><text style="font-size:11pt;">This procedure is performed when all other shipping jigs have been removed and the checks after power is turned ON have been completed. (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href anchor="Fig2.7" style="font-size:11pt; color:#0000ff;">Figure 2.7</link><text style="font-size:11pt;">)</text></para>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><text style="font-size:11pt; font-weight:bold;">Removal Procedure (With Motor)</text></para>
+    <list id="6" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Turn ON the power supply.</text></li>
+    </list>
+    <list id="7" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:53px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:53px;"><text style="font-size:11pt;">An Alarm (Reference Position Return Request) is triggered when the power is turned ON. Disregard the Alarm and continue with the procedure. After this procedure, perform the Reference Position Return. (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="3_1-Axis-Reference-Position-Return" style="font-size:11pt; color:#0000ff;">3.1 Axis Reference Position Return</link><text style="font-size:11pt;">)</text></li>
+    </list>
+    <list id="8" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Remove the mounting screws to remove the Z-axis locking fixture.</text></li>
+      <li styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Replace the mounting screws with the Cable Chain bracket screws.</text></li>
+      <li styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Turn the Handle mode ON and move the Z-axis slowly to check the movement by using the Manual Pulse Generator (MPG).</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px;"><text style="font-size:11pt; font-weight:bold;">Removal Procedure (without Motor)</text></para>
+    <list id="9" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Mount the Motor and coupling to the Z-axis Ball Screw of the Saddle unit. (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="2_1_5-Mounting-the-Z-Axis-Moto" style="font-size:11pt; color:#0000ff;">2.1.5 Mounting the Z-Axis Motor</link><text style="font-size:11pt;">)</text></li>
+      <li styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Remove the mounting screws to remove the Z-axis locking fixture.</text></li>
+      <li styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Replace the mounting screws with the Cable Chain bracket screws.</text></li>
+      <li styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">Turn the Handle mode ON and move the Z-axis slowly to check the movement by using the Manual Pulse Generator.</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:8px; margin-left:34px;"><text style="font-size:11pt;">This completes the Z-axis shipping jig removal procedure.</text></para>
+    <para styleclass="Normal" style="margin-top:8px;"><text style="font-size:11pt;">Do not misplace the Z-axis locking fixture, it may be required if the machine is to be moved to another location in the future.</text></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Removal of Z-Axis Shipping Jig.png" scale="28.00%" width="537" height="652" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><anchor id="Fig2.7" style="font-size:11pt;"></anchor><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;  Removal of Z-Axis Shipping Jig</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="6" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:189px; height:21px; background-color:#dddddd;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+        <td style="width:55px; height:21px; background-color:#dddddd;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:2px; margin-right:15px; margin-bottom:0px; margin-left:16px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:212px; height:21px; background-color:#dddddd;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:2px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Mounting Screw</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">6</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Cable Chain Bracket Screw</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px;">Motor</para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">7</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Z-Cable Chain Bracket</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px;">Z-Axis Locking Fixture</para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">8</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Z-Cable Chain Cover</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">4</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px;">Cable Chain Bracket Screw</para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">9</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Z-Cable Chain Cover Screw</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">5</text></para>
+        </td>
+        <td style="vertical-align:middle; width:189px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Coupling</text></para>
+        </td>
+        <td style="vertical-align:middle; width:55px; height:22px;">
+          <para styleclass style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">-</text></para>
+        </td>
+        <td style="vertical-align:middle; width:212px; height:22px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:4px; margin-right:6px; margin-bottom:4px; margin-left:6px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">-</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-bottom:8px; page-break-before:always;"></para>
+  </body>
+</topic>

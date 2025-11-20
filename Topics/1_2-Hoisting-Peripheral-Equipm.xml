@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1.2 Hoisting Peripheral Equipment</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Hoisting Peripheral Equipment</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><text style="font-size:11pt;">This section explains how to hoist the peripheral equipment.</text></para>
+  </body>
+</topic>

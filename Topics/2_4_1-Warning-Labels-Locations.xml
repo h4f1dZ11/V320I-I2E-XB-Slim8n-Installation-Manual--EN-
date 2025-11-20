@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Warning Labels Locations on Standard Machine</title>
+  <keywords>
+    <keyword>#MCVIEW</keyword>
+    <keyword>#MECHOK</keyword>
+    <keyword>#MTC</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading4">Warning Labels Locations on Standard Machine</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; margin-top:10px;"><text styleclass="Image Caption">&#32;</text><image src="Sticker Location on Std MC_1.png" scale="5.30%" width="389" height="445" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:10px;"><text styleclass="Image Caption">&#32;</text><image src="Sticker Location on Std MC_3.png" scale="8.30%" width="400" height="367" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:30px;"><image src="Sticker Location on Std MC_2.png" scale="9.00%" width="432" height="407" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>
