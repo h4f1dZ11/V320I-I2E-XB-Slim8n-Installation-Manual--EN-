@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<helpproject xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="helpproject.xsd" version="2.2" isskin="false" isrepository="false">
+  <config>
+    <namespaces/>
+    <export-task-groups>
+      <export-task-group name="Common">
+        <export-tasks>
+          <export-task name="Publish your project in CHM format" format="CHM">
+            <task-config-group name="settings">
+              <task-config-value name="outputfile">Installation Manual Template.chm</task-config-value>
+              <task-config-value name="deletetemp">1</task-config-value>
+              <task-config-value name="table_of_contents">Table of Contents</task-config-value>
+              <task-config-value name="make0include">CHM</task-config-value>
+              <task-config-value name="make0status">*</task-config-value>
+            </task-config-group>
+          </export-task>
+          <export-task name="Publish your project in PDF format" format="PDF">
+            <task-config-group name="settings">
+              <task-config-value name="outputfile">Installation Manual Template.pdf</task-config-value>
+              <task-config-value name="template">$(HMSYS)Templates\pdf\Standard_manual.mnl</task-config-value>
+              <task-config-value name="table_of_contents">Table of Contents</task-config-value>
+              <task-config-value name="make4include">PDF</task-config-value>
+              <task-config-value name="make4status">*</task-config-value>
+            </task-config-group>
+          </export-task>
+          <export-task name="Publish your project in HTML format" format="HTM">
+            <task-config-group name="settings">
+              <task-config-value name="outputfile">.\HTML\index.html</task-config-value>
+              <task-config-value name="table_of_contents">Table of Contents</task-config-value>
+              <task-config-value name="make3include">HTML</task-config-value>
+              <task-config-value name="make3status">*</task-config-value>
+            </task-config-group>
+          </export-task>
+        </export-tasks>
+      </export-task-group>
+      <export-task-group name="Recent Publishes">
+        <export-tasks>
+          <export-task name="Publish as PDF" format="PDF">
+            <task-config-group name="settings">
+              <task-config-value name="outputfile">.\PDF\V320I-I2E-XB Slim8n Installation Manual (EN)_1.pdf</task-config-value>
+              <task-config-value name="template">.\Templates\Installation_manual_V320I_ver B.mnl</task-config-value>
+              <task-config-value name="highlighthotspots">0</task-config-value>
+              <task-config-value name="exportcomments">0</task-config-value>
+              <task-config-value name="exportcommentsdate">36526</task-config-value>
+              <task-config-value name="make4include">PDF,FORKLIFT,MECHANICAL,NONGRAPHITE</task-config-value>
+              <task-config-value name="make4status">*</task-config-value>
+            </task-config-group>
+          </export-task>
+          <export-task name="Publish as RTF" format="RTF">
+            <task-config-group name="settings">
+              <task-config-value name="outputfile">.\MW\Installation Manual_2.docx</task-config-value>
+              <task-config-value name="template">$(HMSYS)Templates\Word\Word-Template-Clean-Style-US.docx</task-config-value>
+              <task-config-value name="make5include">PDF,PRINT,FORKLIFT,LUCC,MECHANICAL,NONGRAPHITE</task-config-value>
+              <task-config-value name="make5status">*</task-config-value>
+            </task-config-group>
+          </export-task>
+        </export-tasks>
+      </export-task-group>
+    </export-task-groups>
+    <helpwindows>
+      <helpwindow name="Main" left="-1" top="-1" width="-1" height="-1">
+        <caption translate="true">&lt;%TITLE%&gt;</caption>
+        <window-options-chm navigation="true" navigationwidth="200" index="true" search="true" favorite="true" saveregistry="true" buttons="12366">
+          <user-button name="jump1">
+            <caption translate="true">jump1</caption>
+          </user-button>
+          <user-button name="jump2">
+            <caption translate="true">jump2</caption>
+          </user-button>
+        </window-options-chm>
+      </helpwindow>
+    </helpwindows>
+    <styleclasses>
+      <styleclass name="Code Example" nextclass="Normal" shortcut="0">
+        <style-set media="screen" type="para">white-space:nowrap; page-break-inside:avoid;</style-set>
+        <style-set media="screen" type="text">font-family:'Courier New'; font-size:8pt;</style-set>
+      </styleclass>
+      <styleclass name="Normal" shortcut="0">
+        <style-set media="screen" type="text">font-family:Arial; font-size:10pt;</style-set>
+      </styleclass>
+      <styleclass name="Comment" parentclass="Normal" nextclass="Normal" shortcut="0"/>
+      <styleclass name="Heading1" parentclass="Normal" nextclass="Normal" shortcut="0">
+        <style-set media="screen" type="para">text-align:center;</style-set>
+        <style-set media="screen" type="text">font-size:20pt; font-weight:bold;</style-set>
+      </styleclass>
+      <styleclass name="Heading2" parentclass="Normal" shortcut="0">
+        <style-set media="screen" type="text">font-size:20pt; font-weight:bold;</style-set>
+      </styleclass>
+      <styleclass name="Heading3" parentclass="Heading2" shortcut="0">
+        <style-set media="screen" type="para">border:none;</style-set>
+        <style-set media="screen" type="text">font-size:16pt;</style-set>
+      </styleclass>
+      <styleclass name="Heading4" parentclass="Heading3" shortcut="0">
+        <style-set media="screen" type="text">font-size:12pt; font-weight:normal;</style-set>
+      </styleclass>
+      <styleclass name="Heading5" parentclass="Normal" shortcut="0">
+        <style-set media="screen" type="text">font-size:20pt; font-weight:bold;</style-set>
+      </styleclass>
+      <styleclass name="Image Caption" parentclass="Normal" nextclass="Normal" shortcut="0">
+        <style-set media="screen" type="text">font-size:8pt; font-weight:bold;</style-set>
+      </styleclass>
+      <styleclass name="Notes" parentclass="Normal" nextclass="Normal" shortcut="0"/>
+      <tablestyleclass name="Default">
+        <style-set media="screen">width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; cell-border-width:0px; border-style:none; background-color:none; head-row-background-color:none; alt-row-background-color:none;</style-set>
+      </tablestyleclass>
+      <imagestyleclass name="Default"/>
+    </styleclasses>
+    <config-group name="project">
+      <config-value name="title" translate="true">Installation Manual</config-value>
+      <config-value name="author" translate="true">Makino Asia Pte Ltd</config-value>
+      <config-value name="copyright" translate="true">© &lt;%YEAR%&gt; &lt;%AUTHOR%&gt;</config-value>
+      <config-value name="versionmajor">1</config-value>
+      <config-value name="versionminor">0</config-value>
+      <config-value name="versionbuild">0</config-value>
+      <config-value name="lcid" translate="true">en-gb</config-value>
+      <config-value name="charset" translate="true">ANSI_CHARSET</config-value>
+      <config-value name="deffont">font-family:Arial; font-size:11pt; color:#000000; </config-value>
+      <config-value name="autohelpstart">0</config-value>
+      <config-value name="autohelpincrement">1</config-value>
+      <config-value name="autohelpanchor">0</config-value>
+      <config-value name="searchpath">.\Graphics\Ch 1 Safety\Slim8n\;.\Graphics\Ch 2 Preparation\Slim8n\;.\Graphics\Ch 3 Installation\Slim8n\;.\Graphics\Ch 1 Safety\Slim8n_XA\;.\Graphics\Ch 2 Preparation\Slim8n_XA\;.\Graphics\Ch 3 Installation\Slim8n_XA\</config-value>
+      <config-value name="imageshortcuts_includebaggage">1</config-value>
+      <config-value name="make4include">PDF,FORKLIFT,MECHANICAL,NONGRAPHITE</config-value>
+      <config-value name="make4status">*</config-value>
+      <config-group name="CUSTOMBUILDS">
+        <config-value name="APC">APC</config-value>
+        <config-value name="ATC30">ATC30</config-value>
+        <config-value name="ATCSHUTTER">ATCSHUTTER</config-value>
+        <config-value name="ELECTRICAL">ELECTRICAL</config-value>
+        <config-value name="EXTERNALACR">EXTERNALACR</config-value>
+        <config-value name="FORKLIFT">FORKLIFT</config-value>
+        <config-value name="GRAPHITE">GRAPHITE</config-value>
+        <config-value name="GROUT">GROUT</config-value>
+        <config-value name="LUCC">LUCC</config-value>
+        <config-value name="MECHANICAL">MECHANICAL</config-value>
+        <config-value name="MECHANICALELECTRICAL">MECHANICALELECTRICAL</config-value>
+        <config-value name="NONGRAPHITE">NONGRAPHITE</config-value>
+        <config-value name="OPTION">OPTION</config-value>
+        <config-value name="PS65105">PS65105</config-value>
+        <config-value name="SOFTWARE">SOFTWARE</config-value>
+        <config-value name="SPINDLE">SPINDLE</config-value>
+        <config-value name="STANDARDMACHINE">STANDARDMACHINE</config-value>
+        <config-value name="SLIM3NFORMAT">SLIM3NFORMAT</config-value>
+      </config-group>
+      <config-group name="spellcheck">
+        <config-value name="project">0</config-value>
+      </config-group>
+      <config-value name="imageshortcuts">*Symbols*;24) Installing Peripheral Equipment_3.jpg;Warning symbol with text (720dpi).ipp;</config-value>
+      <config-value name="contents">Installation-Manual</config-value>
+      <config-value name="bidimode">0</config-value>
+      <config-value name="make0include">CHM</config-value>
+      <config-value name="make0status">*</config-value>
+      <config-value name="openchildreadonly">1</config-value>
+      <config-value name="tidyxml">1</config-value>
+      <config-value name="historyfiles">0</config-value>
+      <config-value name="historyfilecount">10</config-value>
+      <config-value name="historykeepdeletedfiles">0</config-value>
+      <config-value name="vcsmanuallycheckout">0</config-value>
+      <config-value name="make5include">PDF,PRINT,FORKLIFT,LUCC,MECHANICAL,NONGRAPHITE</config-value>
+      <config-value name="make5status">*</config-value>
+      <config-group name="TOPICSTATUS">
+        <config-value name="Needs Review">#B6FEAB</config-value>
+        <config-value name="Out Of Date">#FEC79E</config-value>
+        <config-value name="Under Construction">#FEFC9E</config-value>
+        <config-value name="Not Required">#FF80FF</config-value>
+      </config-group>
+    </config-group>
+    <config-group name="pdf">
+      <config-value name="style">0</config-value>
+      <config-value name="createoutline">1</config-value>
+      <config-value name="outlinesnumbered">1</config-value>
+      <config-value name="createhotspots">1</config-value>
+      <config-value name="insertseealso">1</config-value>
+      <config-value name="insertseealsostyle">0</config-value>
+      <config-value name="linkcolor">16711680</config-value>
+      <config-value name="ignoreblank">0</config-value>
+      <config-value name="outputfile">.\PDF\V320I-I2E-XB Slim8n Installation Manual (EN)_1.pdf</config-value>
+      <config-value name="template">.\Templates\Installation_manual_V320I_ver B.mnl</config-value>
+      <config-value name="highlighthotspots">0</config-value>
+      <config-value name="exportcomments">0</config-value>
+      <config-value name="exportcommentsdate">36526</config-value>
+      <config-value name="pdfa">0</config-value>
+      <config-value name="compression">1</config-value>
+      <config-value name="jpegquality">50</config-value>
+      <config-value name="openmode">1</config-value>
+      <config-value name="zoommode">1</config-value>
+      <config-value name="pagelayout">1</config-value>
+      <config-value name="ownerpassword">0141</config-value>
+      <config-value name="userprint">1</config-value>
+      <config-value name="usercopy">1</config-value>
+      <config-value name="userchange">0</config-value>
+      <config-value name="encrypt128bit">0</config-value>
+      <config-value name="title" translate="true">Installation Manual</config-value>
+      <config-value name="copyright" translate="true">&lt;%COPYRIGHT%&gt;</config-value>
+      <config-value name="copyrightpublicdomain">0</config-value>
+    </config-group>
+    <config-group name="html">
+      <config-value name="defaultext">.html</config-value>
+      <config-value name="cssfile">default.css</config-value>
+      <config-value name="fontsizeencoding">1</config-value>
+      <config-value name="fontsizebase">100</config-value>
+      <config-value name="exportmarkersastext">1</config-value>
+      <config-value name="exportstylenames">1</config-value>
+      <config-value name="exportutf8bom">1</config-value>
+      <config-value name="replacecharhyphen">0</config-value>
+      <config-value name="animations">1</config-value>
+      <config-value name="imagelightbox">1</config-value>
+      <config-value name="synctimestamp">1</config-value>
+      <config-value name="syncarchivebit">0</config-value>
+      <config-value name="imagehint">1</config-value>
+      <config-value name="imageconversion">1</config-value>
+      <config-value name="jpgquality">90</config-value>
+      <config-value name="htmlpopup">3</config-value>
+      <config-value name="topiceditor">0</config-value>
+      <config-value name="topicsimpleheadercolor">#D0D0D0</config-value>
+      <config-value name="topicsimpletextcolor">#FFFFFF</config-value>
+      <config-value name="topicsimplebuttons">1</config-value>
+      <config-group name="TOPICSIMPLEBUTTON1">
+        <config-value name="CAPTION" translate="true">Top</config-value>
+      </config-group>
+      <config-group name="TOPICSIMPLEBUTTON2">
+        <config-value name="CAPTION" translate="true">Previous</config-value>
+      </config-group>
+      <config-group name="TOPICSIMPLEBUTTON3">
+        <config-value name="CAPTION" translate="true">Next</config-value>
+      </config-group>
+      <config-group name="TOPICTEMPLATES">
+        <config-value name="Default" translate="true"><![CDATA[<%DOCTYPE%>
+<html>
+<head>
+   <title><%TOPIC_TITLE%></title>
+   <meta name="generator" content="Help &amp; Manual" />
+   <meta name="keywords" content="<%TOPIC_KEYWORDS%>" />
+   <meta http-equiv="Content-Type" content="text/html; charset=<%DOCCHARSET%>" />
+   <IF_CHM><meta http-equiv="X-UA-Compatible" content="IE=9" /></IF_CHM>
+   <IF_HTML><meta http-equiv="X-UA-Compatible" content="IE=edge" /></IF_HTML>
+   <meta name="description" content="<%TOPIC_DESCRIPTION%>" />
+   <meta name="picture" content="<%TOPIC_PICTURE%>" />
+   <link type="text/css" href="<%STYLESHEET%>" rel="stylesheet" />
+   <style type="text/css">
+     body { margin: 0px; background: #FFFFFF; }
+   </style>
+</head>
+<body>
+
+<IF_TOPIC_HEADER>
+<table style="width:100%; border:none; border-spacing:0px; padding:5px; background:#D0D0D0">
+  <tr style="vertical-align:middle">
+    <td style="text-align:left">
+      <%TOPIC_HEADER%>
+    </td>
+    <td style="text-align:right">
+     <a href="<%HREF_DEFAULT_PAGE%>">Top</a>&nbsp;
+     <IF_PREVIOUS_PAGE><a href="<%HREF_PREVIOUS_PAGE%>">Previous</a>&nbsp;</IF_PREVIOUS_PAGE>
+     <IF_NEXT_PAGE><a href="<%HREF_NEXT_PAGE%>">Next</a></IF_NEXT_PAGE>
+    </td>
+  </tr>
+</table>
+</IF_TOPIC_HEADER>
+
+<!-- Placeholder for topic body. -->
+<table style="width:100%;border:none;border-spacing:0px"><tr style="vertical-align:top"><td style="text-align:left;padding:5px">
+<%TOPIC_TEXT%>
+</td></tr></table>
+
+</body>
+</html>]]></config-value>
+      </config-group>
+      <config-value name="searcheditor">0</config-value>
+      <config-value name="searchsimpletext1" translate="true"><![CDATA[<p class="navbar"><a href="<%HREF_CONTENT_PAGE%>">Contents</a>
+<IF_INDEX_PAGE> | <a href="<%HREF_INDEX_PAGE%>">Index</a></IF_INDEX_PAGE>
+<IF_SEARCH_PAGE> | <b>Search</b></IF_SEARCH_PAGE>
+</p>
+<hr/>
+<p class="submit">Enter one or more keywords to search ('*' and '?' wildcards are supported):</p>]]></config-value>
+      <config-value name="searchtemplate" translate="true"><![CDATA[<%DOCTYPE%>
+<html><head>
+   <title><%TITLE%></title>
+   <meta http-equiv="Content-Type" content="text/html; charset=<%DOCCHARSET%>" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+   <!-- This line includes the general project style sheet (not required) -->
+   <link type="text/css" href="<%STYLESHEET%>" rel="stylesheet" />
+
+   <!-- You can change the fonts, text colors, and styles of your search results with the CSS below -->
+   <style type="text/css">
+        body { background:#FFF; }
+        .navbar { font-size: 120%; }
+
+        .submit { font-size: 9pt; }
+        .highlight { background: #FFFF40; }
+        .searchheading { font-size: 9pt; font-weight: bold; }
+        .summary { font-size: 8pt; font-style: italic; }
+        .results { font-size: 9pt; }
+        .description { font-size: 9pt; }
+        .context { font-size: 9pt; }
+        .result_title { font-size: 9pt; }
+
+	       .suggestion { font-size: 100%; }
+	       .category { color: #999999; }
+	       .sorting { text-align: right; }
+	       .zoom_searchform { font-size: 100%; }
+	       .zoom_results_per_page { font-size: 80%; margin-left: 10px; }
+	       .zoom_match { font-size: 80%; margin-left: 10px;}
+	       .zoom_categories { font-size: 80%; }
+	       .zoom_categories ul { display: inline; margin: 0px; padding: 0px;}
+	       .zoom_categories li { display: inline; margin-left: 15px; list-style-type: none; }
+	       input.zoom_button {  }
+	       input.zoom_searchbox {  }
+	       .result_image { float: left; display: block; }
+	       .result_image img { margin: 10px; width: 80px; border: 0px; }
+	       .result_block { margin-top: 15px; margin-bottom: 15px; clear: left; }
+	       .result_altblock { margin-top: 15px; margin-bottom: 15px; clear: left; }
+	       .result_pages { font-size: 100%; }
+	       .result_pagescount { font-size: 100%; }
+	       .searchtime { font-size: 80%; }
+	       .recommended
+	       {
+		        background: #DFFFBF;
+	       		border-top: 1px dotted #808080;
+	       		border-bottom: 1px dotted #808080;
+	       		margin-top: 15px;
+	       		margin-bottom: 15px;
+	       }
+	       .recommended_heading { float: right; font-weight: bold; }
+	       .recommend_block { margin-top: 15px; margin-bottom: 15px; clear: left; }
+	       .recommend_title { font-size: 100%; }
+	       .recommend_description { font-size: 100%; color: #008000; }
+	       .recommend_infoline { font-size: 80%; font-style: normal; color: #808080;}
+
+ 	</style>
+</head>
+<body>
+<p class="navbar"><a href="<%HREF_CONTENT_PAGE%>">Contents</a>
+<IF_INDEX_PAGE> | <a href="<%HREF_INDEX_PAGE%>">Index</a></IF_INDEX_PAGE>
+<IF_SEARCH_PAGE> | <b>Search</b></IF_SEARCH_PAGE>
+</p>
+<hr/>
+<p class="submit">Enter one or more keywords to search ('*' and '?' wildcards are supported):</p>
+  <!-- This is where the search form and results will appear -->
+  <%SEARCH_SCRIPT%>
+
+<noscript>
+<p>You must have JavaScript enabled to use this version of the search engine.</p>
+</noscript>
+</body>
+</html>]]></config-value>
+      <config-group name="searchconstants">
+        <config-value name="STR_FORM_SEARCHFOR" translate="true">Search for:</config-value>
+        <config-value name="STR_FORM_SUBMIT_BUTTON" translate="true">Submit</config-value>
+        <config-value name="STR_FORM_RESULTS_PER_PAGE" translate="true">Results per page:</config-value>
+        <config-value name="STR_FORM_CATEGORY" translate="true">Category:</config-value>
+        <config-value name="STR_FORM_CATEGORY_ALL" translate="true">All</config-value>
+        <config-value name="STR_FORM_MATCH" translate="true">Match:</config-value>
+        <config-value name="STR_FORM_ANY_SEARCH_WORDS" translate="true">any search words</config-value>
+        <config-value name="STR_FORM_ALL_SEARCH_WORDS" translate="true">all search words</config-value>
+        <config-value name="STR_FORM_DATE_FROM" translate="true">From:</config-value>
+        <config-value name="STR_FORM_DATE_TO" translate="true">To:</config-value>
+        <config-value name="STR_FORM_DATE_BUTTON" translate="true">&amp;laquo;</config-value>
+        <config-value name="STR_NO_QUERY" translate="true">No search query entered.</config-value>
+        <config-value name="STR_RESULTS_FOR" translate="true">Search results for:</config-value>
+        <config-value name="STR_RESULTS_IN_ALL_CATEGORIES" translate="true">in all categories</config-value>
+        <config-value name="STR_RESULTS_IN_CATEGORY" translate="true">in category</config-value>
+        <config-value name="STR_POWEREDBY" translate="true">Search powered by</config-value>
+        <config-value name="STR_NO_RESULTS" translate="true">No results</config-value>
+        <config-value name="STR_RESULT" translate="true">result</config-value>
+        <config-value name="STR_RESULTS" translate="true">results</config-value>
+        <config-value name="STR_PHRASE_CONTAINS_COMMON_WORDS" translate="true">Your search query contained too many common words to return the entire set of results available. Please try again with a more specific query for better results.</config-value>
+        <config-value name="STR_SKIPPED_FOLLOWING_WORDS" translate="true">The following word(s) are in the skip word list and have been omitted from your search:</config-value>
+        <config-value name="STR_SKIPPED_PHRASE" translate="true">Note that you can not search for exact phrases beginning with a skipped word</config-value>
+        <config-value name="STR_SUMMARY_NO_RESULTS_FOUND" translate="true">No results found.</config-value>
+        <config-value name="STR_SUMMARY_FOUND_CONTAINING_ALL_TERMS" translate="true">found containing all search terms.</config-value>
+        <config-value name="STR_SUMMARY_FOUND_CONTAINING_SOME_TERMS" translate="true">found containing some search terms.</config-value>
+        <config-value name="STR_SUMMARY_FOUND" translate="true">found.</config-value>
+        <config-value name="STR_PAGES_OF_RESULTS" translate="true">pages of results.</config-value>
+        <config-value name="STR_MORETHAN" translate="true">More than</config-value>
+        <config-value name="STR_POSSIBLY_GET_MORE_RESULTS" translate="true">You can possibly get more results searching for</config-value>
+        <config-value name="STR_ANY_OF_TERMS" translate="true">any of the terms</config-value>
+        <config-value name="STR_ALL_CATS" translate="true">all categories</config-value>
+        <config-value name="STR_CAT_SUMMARY" translate="true">Refine your search by category:</config-value>
+        <config-value name="STR_DIDYOUMEAN" translate="true">Did you mean:</config-value>
+        <config-value name="STR_OR" translate="true">or</config-value>
+        <config-value name="STR_RECOMMENDED" translate="true">Recommended links</config-value>
+        <config-value name="STR_SORTEDBY_RELEVANCE" translate="true">Sorted by relevance</config-value>
+        <config-value name="STR_SORTBY_RELEVANCE" translate="true">Sort by relevance</config-value>
+        <config-value name="STR_SORTBY_DATE" translate="true">Sort by date</config-value>
+        <config-value name="STR_SORTEDBY_DATE" translate="true">Sorted by date &amp;#9660;</config-value>
+        <config-value name="STR_SORTEDBY_DATE_ASC" translate="true">Sorted by date &amp;#9650;</config-value>
+        <config-value name="STR_RESULT_TERMS_MATCHED" translate="true">Terms matched: </config-value>
+        <config-value name="STR_RESULT_SCORE" translate="true">Score: </config-value>
+        <config-value name="STR_RESULT_URL" translate="true">URL:</config-value>
+        <config-value name="STR_RESULT_PAGES" translate="true">Result Pages:</config-value>
+        <config-value name="STR_RESULT_PAGES_PREVIOUS" translate="true">Previous</config-value>
+        <config-value name="STR_RESULT_PAGES_NEXT" translate="true">Next</config-value>
+        <config-value name="STR_SEARCH_TOOK" translate="true">Search took</config-value>
+        <config-value name="STR_SECONDS" translate="true">seconds</config-value>
+        <config-value name="STR_MAX_RESULTS" translate="true">You have requested more results than served per query. Please try again with a more precise query.</config-value>
+      </config-group>
+      <config-value name="searchstoplist" translate="true">and,or,the,it,is,an,on,we,us,to,of,has,be,all,for,in,as,so,are,that,can,you,at,its,by,have,with,into</config-value>
+      <config-value name="searchskipwordsmin">2</config-value>
+      <config-value name="searchplatform">JSFILE</config-value>
+      <config-value name="searchjoinwordchars">.-_'</config-value>
+      <config-value name="searchexactphrase">0</config-value>
+      <config-value name="searchhighlight">1</config-value>
+      <config-value name="searchallowdate">0</config-value>
+      <config-value name="searchaccentinsensitive">0</config-value>
+      <config-value name="searchsinglecase">0</config-value>
+      <config-value name="hasindex">1</config-value>
+      <config-value name="hassearch">1</config-value>
+      <config-value name="contentnumbers">1</config-value>
+      <config-value name="contentnumberstyle">1.1.1.1.1.1</config-value>
+      <config-value name="contentlazysync">0</config-value>
+      <config-value name="contentsingleclick">0</config-value>
+      <config-value name="contentautocollapse">0</config-value>
+      <config-value name="contentexpand">0</config-value>
+      <config-value name="forcetocsync">0</config-value>
+      <config-value name="contentindent">20</config-value>
+      <config-value name="defaulticons">1</config-value>
+    </config-group>
+    <config-group name="chm">
+      <config-value name="defaultext">.html</config-value>
+      <config-value name="cssfile">default.css</config-value>
+      <config-value name="fontsizeencoding">0</config-value>
+      <config-value name="fontsizebase">100</config-value>
+      <config-value name="exportmarkersastext">1</config-value>
+      <config-value name="exportstylenames">1</config-value>
+      <config-value name="pixelasem">1</config-value>
+      <config-value name="underscoreexcludesearch">0</config-value>
+      <config-value name="replacecharhyphen">0</config-value>
+      <config-value name="animations">1</config-value>
+      <config-value name="imagelightbox">1</config-value>
+      <config-value name="imagehint">1</config-value>
+      <config-value name="imageconversion">1</config-value>
+      <config-value name="jpgquality">90</config-value>
+      <config-value name="htmlpopup">3</config-value>
+      <config-value name="outputfile">Installation Manual Template.chm</config-value>
+      <config-value name="deletetemp">1</config-value>
+    </config-group>
+    <config-group name="liststyles">
+      <config-value name="outline6">LEVELS=9;L0.ListType=4;L0.FormatString=%0:s.;L0.MarkerAlignment=0;L0.LevelReset=0;L0.StartFrom=1;L1.ListType=3;L1.FormatString=%s.%1:s;L1.MarkerAlignment=0;L1.StartFrom=1;L2.ListType=3;L2.FormatString=%s.%1:s.%2:s;L2.MarkerAlignment=0;L2.StartFrom=1;L3.ListType=4;L3.FormatString=%3:s;L3.MarkerAlignment=0;L3.StartFrom=1;L4.ListType=4;L4.FormatString=(%4:s);L4.MarkerAlignment=0;L4.StartFrom=1;L5.ListType=0;L5.Font.Name=Arial;L5.Font.Charset=0;L5.FormatString=•;L5.MarkerAlignment=0;L5.StartFrom=0;L6.ListType=0;L6.Font.Name=Arial;L6.Font.Charset=0;L6.FormatString=•;L6.MarkerAlignment=0;L6.StartFrom=0;L7.ListType=0;L7.Font.Name=Arial;L7.Font.Charset=0;L7.FormatString=•;L7.MarkerAlignment=0;L7.StartFrom=0;L8.ListType=0;L8.Font.Name=Arial;L8.Font.Charset=0;L8.FormatString=•;L8.MarkerAlignment=0;L8.StartFrom=0;</config-value>
+      <config-value name="number5">LEVELS=1;L0.ListType=4;L0.FormatString=%0:s.;L0.MarkerAlignment=0;L0.StartFrom=1;</config-value>
+      <config-value name="number0">LEVELS=1;L0.ListType=3;L0.FormatString=%0:s;L0.MarkerAlignment=0;L0.StartFrom=1;</config-value>
+    </config-group>
+    <config-group name="user">
+      <config-group name="noorhbo">
+        <config-group name="project">
+          <config-value name="lastexport">4</config-value>
+        </config-group>
+      </config-group>
+      <config-group name="gohw">
+        <config-group name="project">
+          <config-value name="lastexport">4</config-value>
+        </config-group>
+      </config-group>
+      <config-group name="atiqahbh">
+        <config-group name="project">
+          <config-value name="lastexport">4</config-value>
+        </config-group>
+      </config-group>
+      <config-group name="limb">
+        <config-group name="project">
+          <config-value name="lastexport">0</config-value>
+        </config-group>
+      </config-group>
+    </config-group>
+    <config-group name="docx">
+      <config-value name="topiclinkcolor">16711680</config-value>
+      <config-value name="internetlinkcolor">16711680</config-value>
+      <config-value name="filelinkcolor">16711680</config-value>
+      <config-value name="topiclinkstyle">0</config-value>
+      <config-value name="internetlinkstyle">2</config-value>
+      <config-value name="filelinkstyle">0</config-value>
+      <config-value name="enablefilelinksext">*.pdf, *.docx, *.xslx, *.pptx</config-value>
+    </config-group>
+    <config-group name="print">
+      <config-value name="include">PDF,PRINT,ELECTRICAL,FORKLIFT,LUCC,MECHANICAL,MECHANICALELECTRICAL,NONGRAPHITE,OPTION,SPINDLE</config-value>
+      <config-value name="template">.\Templates\Installation_manual_V1832I.mnl</config-value>
+      <config-value name="colortext">0</config-value>
+      <config-value name="insertseealso">0</config-value>
+      <config-value name="insertseealsostyle">-1</config-value>
+      <config-value name="tocname">Table of Contents</config-value>
+    </config-group>
+    <config-group name="rtf">
+      <config-value name="outputfile">.\MW\Installation Manual_2.docx</config-value>
+      <config-value name="template">$(HMSYS)Templates\Word\Word-Template-Clean-Style-US.docx</config-value>
+    </config-group>
+    <variables/>
+    <helpcontext-numbers/>
+  </config>
+  <xi:include parse="xml" href="Maps/table_of_contents.xml"/>
+  <project-files>
+    <file href="Topics/*.xml" build="ALL" filetype="topic">
+      <file-mod href="1_4-Preparation-of-Installatio.xml" build="MECHANICAL"/>
+      <file-mod href="1_1_3-Transporting-the-Machine.xml" build="FORKLIFT"/>
+      <file-mod href="2_1_5-Mounting-the-Z-Axis-Moto.xml" build="PDF"/>
+      <file-mod href="2_1_6-Mounting-the-Z-Axis-Cabl.xml" build="PDF"/>
+      <file-mod href="1_2_1-HoistingtheCoolantTank.xml" build="NONGRAPHITE"/>
+      <file-mod href="1_2_2-Hoistin-the-Coolant-Temperature-Controller.xml" build="PDF"/>
+      <file-mod href="1_2_3-Hoisting-the-Air-Dryer.xml" build="PDF"/>
+      <file-mod href="1_2_4-Hoisting-the-Mist-Collector.xml" build="PDF"/>
+      <file-mod href="2_2_2-Piping-and-Wiring-Connection-of-Cutting-Fluid-Supply-Unit.xml" build="NONGRAPHITE"/>
+      <file-mod href="2_2_3-Piping-and-Wiring-Connection-of-Coolant-Temperature-Controller-(Option).xml" build="NONGRAPHITE,PDF"/>
+      <file-mod href="2_5_1-Level-Adjustment.xml" build="MECHANICAL"/>
+      <file-mod href="2_1_7-Installing-the-Signal-Li.xml" build="PDF"/>
+    </file>
+    <file href="Topics/Non-TOC/*.xml" build="ALL" filetype="topic"/>
+    <file href="Baggage/*.*" build="ALL" filetype="baggage"/>
+  </project-files>
+</helpproject>
